@@ -44,8 +44,8 @@ img {
 }
 
 h2 {
-    color: #99008c;
-    border-bottom: 2px solid #990091;
+    color: #990078;
+    border-bottom: 2px solid #990078;
     padding-bottom: 5px;
 }
 
@@ -56,7 +56,7 @@ ul {
 footer {
     text-align: center;
     padding: 15px;
-    background-color: #99008c;
+    background-color: #990078;
     color: white;
     margin-top: 30px;
 }
